@@ -3,4 +3,4 @@ In this project, i tried to simulate  speed control of a dc motor, and document 
  i used pid contoller to maintain the speed of the dc motor 
  all the block diagram and the design of the pid controller are present in the files 
 
- there may be some minor errors but it is ok tested..
+this is the working model, with just small change in the transfer function you can change the speed control to angle control
